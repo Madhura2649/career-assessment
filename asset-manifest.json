@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/career-assessment/static/js/main.0ff133c1.js",
+    "main.css": "/career-assessment/static/css/main.6dd0e622.css",
+    "main.js": "/career-assessment/static/js/main.0681754e.js",
     "index.html": "/career-assessment/index.html",
-    "main.0ff133c1.js.map": "/career-assessment/static/js/main.0ff133c1.js.map"
+    "main.6dd0e622.css.map": "/career-assessment/static/css/main.6dd0e622.css.map",
+    "main.0681754e.js.map": "/career-assessment/static/js/main.0681754e.js.map"
   },
   "entrypoints": [
-    "static/js/main.0ff133c1.js"
+    "static/css/main.6dd0e622.css",
+    "static/js/main.0681754e.js"
   ]
 }
