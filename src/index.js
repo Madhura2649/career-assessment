@@ -1,12 +1,11 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
-import App from "./App";
+import ReactDOM from "react-dom";
 import { BrowserRouter } from "react-router-dom";
-import "./styles.css";
+import App from "./App";
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
-  <BrowserRouter>
+ReactDOM.render(
+  <BrowserRouter basename="/career-assessment">
     <App />
-  </BrowserRouter>
+  </BrowserRouter>,
+  document.getElementById("root")
 );
